@@ -112,7 +112,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
   </a>
   </p>
   </details>
-<details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴀɪʟᴡᴀʏ {ғʀᴇᴇ}</summary>
+<details><summary>Dᴇᴘᴏʟʏ Tᴏ Rᴀɪʟᴡᴀʏ {ᴩᴀɪᴅ}</summary>
 <p>
 <br>
 <a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FTamilanBotsZ%2FPremiumFilter">
